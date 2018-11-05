@@ -6,6 +6,8 @@
 
 * [Amo Olsson, Christian](https://github.com/christianraulamo/ionic-Receta)
 
+* [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt)
+
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-Proyecto) Sin nombre aún
 
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
