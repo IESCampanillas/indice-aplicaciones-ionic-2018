@@ -1,2 +1,5 @@
-# indice-aplicaciones-ionic-2018
+# Índice de aplicaciones de Ionic - Curso 2018 / 2019
+
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2018 - 2019)
+
+* [Apellidos, Nombre](#) Nombre de la aplicación
