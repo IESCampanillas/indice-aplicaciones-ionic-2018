@@ -4,4 +4,8 @@
 
 * [Apellidos, Nombre](#) Nombre de la aplicación
 
+* [Amo Olsson, Christian](https://github.com/christianraulamo/ionic-Receta)
+
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
+
+
