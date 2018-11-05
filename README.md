@@ -6,7 +6,7 @@
 
 * [Amo Olsson, Christian](https://github.com/christianraulamo/ionic-Receta)
 
-* [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt)
+* [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt) DoIt
 
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-Proyecto) Sin nombre aún
 
