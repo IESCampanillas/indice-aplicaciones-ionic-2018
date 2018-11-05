@@ -2,8 +2,6 @@
 
 Índice a las aplicaciones hechas en Ionic de 2º DAM (curso 2018 - 2019)
 
-* [Apellidos, Nombre](#) Nombre de la aplicación
-
 * [Amo Olsson, Christian](https://github.com/christianraulamo/ionic-Receta)
 
 * [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt) DoIt
