@@ -8,6 +8,8 @@
 
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-Proyecto) Sin nombre aún
 
+* [García Fernández, Guillermo](https://github.com/GuillermoGarcia/Avispro-ionic) Avispro (Asistente VISual para Personajes de Rol Online)
+
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
 
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic)
