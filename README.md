@@ -12,7 +12,7 @@
 
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
 
-* [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic)
+* [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic) We Married
 
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic)
 
