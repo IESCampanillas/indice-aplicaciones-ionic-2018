@@ -12,7 +12,7 @@
 
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
 
-* [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/jda.git) wda
+* [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda (Write down anywhere, write down anytime)
 
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic) We Married
 
