@@ -14,6 +14,8 @@
 
 * [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda (Write down anywhere, write down anytime)
 
+* [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/app-ionic) Work in progress
+
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic) We Married
 
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic)
