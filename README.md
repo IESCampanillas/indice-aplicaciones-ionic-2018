@@ -12,7 +12,7 @@
 
 * [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
 
-* [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda (Write down anywhere, write down anytime)
+* [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda
 
 * [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/app-ionic) Work in progress
 
