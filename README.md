@@ -6,7 +6,7 @@
 
 * [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt) DoIt
 
-* [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-Proyecto) Sin nombre aún
+* [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-TourismCities) Tourism Cities
 
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/Avispro-ionic) Avispro (Asistente VISual para Personajes de Rol Online)
 
