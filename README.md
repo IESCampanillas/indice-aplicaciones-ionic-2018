@@ -6,6 +6,8 @@
 
 * [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/DoIt) DoIt
 
+* [Espejo García, Ignacio](https://github.com/NachoEspejo/Ionic-Trainning) Trainning
+
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/ionic-TourismCities) Tourism Cities
 
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/Avispro-ionic) Avispro (Asistente VISual para Personajes de Rol Online)
