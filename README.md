@@ -16,7 +16,7 @@
 
 * [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda
 
-* [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/app-ionic) Work in progress
+* [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/app-ionic) My Galaxy Catalogue (Gestor de catálogos)
 
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic) We Married
 
