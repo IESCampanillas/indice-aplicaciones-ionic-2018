@@ -10,7 +10,7 @@
 
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/Avispro-ionic) Avispro (Asistente VISual para Personajes de Rol Online)
 
-* [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git)
+* [García Ruiz, Cintia](https://github.com/cyntigr/Aplicacion-ionic-mi-cuisine.git) Mi Cuisine
 
 * [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/wda.git) wda
 
