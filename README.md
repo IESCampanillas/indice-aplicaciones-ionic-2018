@@ -20,6 +20,8 @@
 
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/app-ionic) We Married
 
+* [Vargas Galán, Jesús](https://github.com/jesusvargasgalan/Ionic-perifericos) Organizador de periféricos de PC
+
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic)
 
 
