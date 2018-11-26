@@ -22,6 +22,6 @@
 
 * [Vargas Galán, Jesús](https://github.com/jesusvargasgalan/Ionic-perifericos) Organizador de periféricos de PC
 
-* [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic)
+* [Villena Gil, Juan David](https://github.com/juandavidvillena/proyecto-ionic) GymApp
 
 
